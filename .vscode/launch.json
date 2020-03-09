@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solucao4",
+            "request": "launch",
+            "mainClass": "Solucao4",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solucao3",
+            "request": "launch",
+            "mainClass": "Solucao3",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solucao1",
+            "request": "launch",
+            "mainClass": "Solucao1",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solucao2",
+            "request": "launch",
+            "mainClass": "Solucao2",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExibeTresFrasesAoContrario",
+            "request": "launch",
+            "mainClass": "ExibeTresFrasesAoContrario",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tst",
+            "request": "launch",
+            "mainClass": "tst",
+            "projectName": "javausjt_3ff28b32"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}"
+        }
+    ]
+}
